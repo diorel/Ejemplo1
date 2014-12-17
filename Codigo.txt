@@ -1,6 +1,1 @@
 system.writeline("Hola como estas");
-
-todas las aplicaciones zona alidados deven iniciar appacceso
-
-usuprueb    XX
-QWEqwe123
